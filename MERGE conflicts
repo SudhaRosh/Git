@@ -1,0 +1,46 @@
+git branch 
+main
+git add. 
+git commit -m " add new chnage"
+
+git checkout feature1 
+
+git add. 
+git commit "add new changes 2"
+
+git diff main 
+
+git merge main  ( currently we are in feature1 branch )
+
+Conflict arised ( when git is unable to automatically resolve differences in code between two commits ) as which change need to be added 
+
+ Accept Current chmages | Accept incoming change | Accept both changes  ( click on any options)
+
+
+git add.
+git commit "add both changes" 
+
+git diff
+git diff main 
+(we have a change )
+
+git checkout main 
+
+Now if we want to add changes of feature1 branch changes to main branch
+
+git merge feature1
+
+(here we didnot get merge conflict because changes are in same lines)
+
+
+git push 
+
+
+
+
+
+
+
+
+
+
