@@ -1,0 +1,30 @@
+Back to previous stage 
+
+git reset <file_name>
+
+git reset (reset more changes simultaneously)
+
+git status 
+now stage the modified changes and add
+
+
+If we delete any changes 
+
+* Commited changes ( for one commit) 
+git reset HEAD~1   ( To undo one commit)
+
+* git log 
+
+
+* to undo multiple commits
+copy hash of that commit where we want to undo
+
+git reset <copied_hash_ from log)
+
+git reset --hard <hash>  ( orgin commit) 
+
+
+
+
+
+
