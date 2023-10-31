@@ -1,0 +1,17 @@
+ADD -
+ adds new or changed file in the working directory to the staging area
+git add <file_name>
+ADD all files : git add .
+git add README.md
+
+COMMIT -
+it the record of changes 
+git commit -m 'some message'  
+
+eg. git commit -m 'fixed_new_bug'
+
+
+
+
+
+
