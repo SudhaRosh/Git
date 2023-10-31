@@ -1,1 +1,25 @@
 
+STATUS: Display state of the code
+git status 
+
+1. untracted 
+New file that git doesn't yet tracted
+2.modified
+changes
+3.staged
+Ready to cimmit
+4. unmodified
+unchanged 
+
+eg. 
+- After modification in file there is two stage process
+  1. Add
+  2. commit
+  Until and unless we perform the above two operations , git status keep populating messages as we have modified the file
+- It we create a new file , it also shows untracted file status
+
+
+
+
+
+
