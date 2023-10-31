@@ -1,0 +1,12 @@
+To make changes of REMOTE repo to out LOCAL repo 
+
+PULL COMMAND 
+
+git pull origin main 
+
+used to fetch and download content from a remote repo and imeediately update the local repo to match 
+that content.
+
+
+
+
