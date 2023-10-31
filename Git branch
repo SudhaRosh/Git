@@ -1,0 +1,43 @@
+git branch ( to check current branch)
+
+git branch -M <new_branch_name>
+git checkout <second branch name> ( to switch from another branch)
+git checkout -b <new_branch>  ( to create new branch and switch on it)
+git branch 
+
+To delete any branch first checkout to another branch then delete 
+git branch -d ( delete any branch) 
+
+
+git push origin <new_branch_name>  ( to push in remote repo) 
+
+
+MERGE both branch : 
+First : 
+1. git diff <branch_name> ( compare two branches) 
+2. git merge <branch_name> 
+
+Second:
+Using github : 
+create PR (pull request) 
+PULL REQUEST: it lets you tell others about changes you have pushed to a branch in a repository on github.
+
+Compare and pull request 
+
+new commit is created for pull request 
+
+To take new changes , we can create a pull request 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
