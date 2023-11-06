@@ -7,6 +7,4 @@ Git_Deveops_Commands
 Clone: Cloning a repository on our local machine 
 git clone <repo_link>
 
-Status: Display state of the code
-git status 
-
+Git commands 
